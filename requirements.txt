@@ -3,3 +3,4 @@ langchain-community==0.0.10
 langgraph==0.0.40
 langchain-openai==0.0.8
 python-dateutil==2.8.2
+streamlit==1.28.0
