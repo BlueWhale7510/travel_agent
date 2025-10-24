@@ -25,7 +25,7 @@ if 'current_state' not in st.session_state:
     st.session_state.current_state = None
 
 # ==================== 配置区域 ====================
-DEEPSEEK_API_KEY = "sk-a837b9ca3a554fe792e55b6e966d759d"
+DEEPSEEK_API_KEY = "sk-a83****************d759d"
 DEEPSEEK_BASE_URL = "https://api.deepseek.com/v1"
 
 def get_llm():
