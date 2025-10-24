@@ -11,7 +11,7 @@ import random
 
 # ==================== 配置区域 ====================
 USE_API = True
-DEEPSEEK_API_KEY = "sk-a837b9ca3a554fe792e55b6e966d759d"
+DEEPSEEK_API_KEY = "sk-a83*****************59d"
 DEEPSEEK_BASE_URL = "https://api.deepseek.com/v1"
 
 # ==================== 状态定义 ====================
